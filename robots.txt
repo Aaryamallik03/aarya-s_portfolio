@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aaryamallik03.github.io/aarya-s_portfolio/sitemap.xml
