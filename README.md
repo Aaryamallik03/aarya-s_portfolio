@@ -2,7 +2,7 @@
 
 An interactive portfolio site. Instead of a plain resume page, visitors dig through rocks in a little pickaxe game to unlock my projects, resume, experience and certificates, or skip straight to a scrolling 3D-style story of my work.
 
-**Live site:** https://aaryamallik03.github.io/digital-resume/
+**Live site:** https://aaryamallik03.github.io/aarya-s_portfolio/
 
 ## About me
 
